@@ -6,6 +6,4 @@ git commit -m "add file4"
 
 echo "hello" > file4
 git stash
-git checkout master
-
-
+git checkout main
