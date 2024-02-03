@@ -1,6 +1,6 @@
 git checkout -b branch1
 
-mv dir1/dir2/foo dir1/cd ..
+mv dir1/dir2/foo dir1/
 
 rm -r dir1/dir2
 rm dir3/bar_copy
