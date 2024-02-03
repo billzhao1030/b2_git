@@ -1,4 +1,4 @@
-git fetch --all
+git branch -a
 
 git merge origin/ready1
 git merge origin/ready2
