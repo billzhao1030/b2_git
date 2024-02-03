@@ -1,5 +1,5 @@
 cp dir3/bar dir3/bar_copy
-git add *
+git add .
 
 git commit -m "add copy"
 
