@@ -9,7 +9,7 @@ git branch -d ready2
 git branch -d ready3
 
 git checkout origin/update1
-git merge origin/main
+git pull origin main
 
 git checkout origin/update2
-git merge origin/main
+git pull origin main
