@@ -5,10 +5,10 @@ git commit -m "add copy"
 
 git checkout -b branch1
 
-git mv dir1/dir2/foo dir1/
+mv dir1/dir2/foo dir1/
 
 rmdir dir1/dir2
-git rm dir3/bar_copy
+rm dir3/bar_copy
 
 touch newfile1
 
